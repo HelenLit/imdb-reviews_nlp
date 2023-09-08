@@ -9,7 +9,7 @@ Model architecture:
 
 Results:
 
-![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/05a5154d-416e-441c-9b79-ef7491265fdf)
+![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/ff1d1b99-08e2-4b1f-804a-2e4945ab53ce)
 
 
 
