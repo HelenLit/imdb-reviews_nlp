@@ -5,11 +5,12 @@ I trained it on the [IMDB Reviews](http://ai.stanford.edu/~amaas/data/sentiment/
 
 Model architecture: 
 
-![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/51b08f3b-fdec-4989-a5dd-21b61014bb05)
+![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/a71f8a77-4cd3-4f75-b61b-306c796ba6f8)
 
 Results:
 
-![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/8ac5f6c0-5bbc-4d83-a8cd-414ef18bab54)
+![image](https://github.com/HelenLit/imdb-reviews_nlp/assets/108334668/05a5154d-416e-441c-9b79-ef7491265fdf)
+
 
 
 
